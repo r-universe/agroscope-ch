@@ -1,0 +1,10 @@
+{
+  "id": 48199446,
+  "created_at": "2024-03-08T08:58:07.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["agroscope-ch.r-universe.dev"]
+}
