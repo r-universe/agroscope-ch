@@ -2,11 +2,11 @@
 	path = .registry
 	url = https://github.com/agroscope-ch/agroscope-ch.r-universe.dev
 	branch = HEAD
-[submodule "openfoodtox"]
-	path = openfoodtox
+[submodule "OpenFoodTox"]
+	path = OpenFoodTox
 	url = https://github.com/agroscope-ch/openfoodtox
-[submodule "sqlparser"]
-	path = sqlparser
+[submodule "sqlparseR"]
+	path = sqlparseR
 	url = https://github.com/agroscope-ch/sqlparser
 [submodule "triact"]
 	path = triact
