@@ -8,6 +8,9 @@
 [submodule "sqlparseR"]
 	path = sqlparseR
 	url = https://github.com/agroscope-ch/sqlparser
+[submodule "srppp"]
+	path = srppp
+	url = https://github.com/agroscope-ch/srppp
 [submodule "triact"]
 	path = triact
 	url = https://github.com/agroscope-ch/triact
