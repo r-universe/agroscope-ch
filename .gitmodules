@@ -11,6 +11,9 @@
 [submodule "srppp"]
 	path = srppp
 	url = https://github.com/agroscope-ch/srppp
+[submodule "srppphist"]
+	path = srppphist
+	url = https://github.com/agroscope-ch/srppphist
 [submodule "triact"]
 	path = triact
 	url = https://github.com/agroscope-ch/triact
