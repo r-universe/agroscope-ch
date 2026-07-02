@@ -5,6 +5,9 @@
 [submodule "OpenFoodTox"]
 	path = OpenFoodTox
 	url = https://github.com/agroscope-ch/openfoodtox
+[submodule "derappp"]
+	path = derappp
+	url = https://github.com/agroscope-ch/derappp
 [submodule "sqlparseR"]
 	path = sqlparseR
 	url = https://github.com/agroscope-ch/sqlparser
