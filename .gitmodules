@@ -5,6 +5,9 @@
 [submodule "OpenFoodTox"]
 	path = OpenFoodTox
 	url = https://github.com/agroscope-ch/openfoodtox
+[submodule "chents"]
+	path = chents
+	url = https://github.com/jranke/chents
 [submodule "derappp"]
 	path = derappp
 	url = https://github.com/agroscope-ch/derappp
